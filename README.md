@@ -1,10 +1,10 @@
-# PasseMonTruc Connector - Plugin Nicotine+
+# Vélorution_connector - Plugin Nicotine+
 
 ## Français
 
 ### 📌 Description
 
-**PasseMonTruc Connector** est un plugin pour Nicotine+ qui permet de rechercher et télécharger automatiquement des fichiers audio en fonction d'une liste de critères définis. Il utilise le service [Passe Mon Truc](https://passemontruc.kodcast.com)  pour faciliter la récupération de morceaux.
+**velorution_connector Connector** est un plugin pour Nicotine+ qui permet de rechercher et télécharger automatiquement des fichiers audio en fonction d'une liste de critères définis. Il utilise le service [velorutioweb]([https://framagit.org/velorutionsaintnazaire/velorutioweb](https://framagit.org/velorutionsaintnazaire/velorutioweb))  pour faciliter la récupération de morceaux.
 
 ### 🚀 Fonctionnalités
 
