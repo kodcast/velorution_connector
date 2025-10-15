@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: djheros_connector 1.0\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "🔄 Loading djheros_connector plugin..."
+msgstr "🔄 djheros_connector Plugin wird geladen..."
+
+msgid "🔔 Plugin djheros_connector loaded."
+msgstr "🔔 djheros_connector Plugin geladen."
+
+msgid "🔧 Creating main window..."
+msgstr "🔧 Erstelle Hauptfenster..."
+
+msgid "enter the adress (ex: https://yourdjherosplace.com/) :"
+msgstr "Geben Sie die Adresse ein (z.B.: https://yourdjherosplace.com/) :"
+
+msgid "URL de base"
+msgstr "Basis-URL"
+
+msgid "Audio Format:"
+msgstr "Audioformat:"
+
+msgid "Audio Quality:"
+msgstr "Audioqualität:"
+
+msgid "Search and Download"
+msgstr "Suchen und Herunterladen"
+
+msgid "Stop"
+msgstr "Stopp"
+
+msgid "Pause"
+msgstr "Pause"
+
+msgid "Search paused by user."
+msgstr "Suche vom Benutzer pausiert."
+
+msgid "Search resumed."
+msgstr "Suche fortgesetzt."
+
+msgid "Search stopped by user."
+msgstr "Suche vom Benutzer gestoppt."
+
+msgid "No URL provided."
+msgstr "Keine URL angegeben."
+
+msgid "Please enter a valid URL."
+msgstr "Bitte geben Sie eine gültige URL ein."
+
+msgid "📡 Fetching propositions from {url}"
+msgstr "📡 Hole Vorschläge von {url}"
+
+msgid "❌ Error fetching or parsing JSON: {error}"
+msgstr "❌ Fehler beim Abrufen oder Parsen von JSON: {error}"
+
+msgid "⚠️ No validated propositions found."
+msgstr "⚠️ Keine validierten Vorschläge gefunden."
+
+msgid "🔍 Starting searches for {count} proposition(s)"
+msgstr "🔍 Starte Suche nach {count} Vorschlag(en)"
+
+msgid "📡 Searching for: {term}"
+msgstr "📡 Suche nach: {term}"
+
+msgid "❌ Error during search for '{term}': {error}"
+msgstr "❌ Fehler bei der Suche nach '{term}': {error}"
+
+msgid "❌ No matching file found for {term}"
+msgstr "❌ Keine passende Datei für {term} gefunden"
+
+msgid "📩 Received search results..."
+msgstr "📩 Suchergebnisse empfangen..."
+
+msgid "🎯 Checking file: {filename} (Format: {h_format}, Quality: {h_quality}, Format match: {format_match}, Quality match: {quality_match}, private: {is_private})"
+msgstr "🎯 Überprüfe Datei: {filename} (Format: {h_format}, Qualität: {h_quality}, Format stimmt: {format_match}, Qualität stimmt: {quality_match}, privat: {is_private})"
+
+msgid "✅ Matching result found for {term}: {filename}"
+msgstr "✅ Passendes Ergebnis gefunden für {term}: {filename}"
+
+msgid "🚀 Download launched for: {file}"
+msgstr "🚀 Download gestartet für: {file}"
+
+msgid "❌ Error downloading {file}: {error}"
+msgstr "❌ Fehler beim Download von {file}: {error}"
+
+msgid "❌ Window closed."
+msgstr "❌ Fenster geschlossen."
+

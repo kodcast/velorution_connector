@@ -1,0 +1,4 @@
+Version = "2025-10"
+Authors = ["K0d"]
+Name = "velorution_connector"
+Description = "Searching and downloading with a passe mon truc tool\n\n ##Nicotine configuration##\nYou need to limit your result count to 300 in Nicotine+ settings for better performance "
