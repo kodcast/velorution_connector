@@ -33,7 +33,7 @@
 
 #### 🖥️ Sous Windows :
 
-1. Télécharger le dépôt depuis GitHub
+1. Télécharger le dépôt depuis [GitHub](https://github.com/kodcast/velorution_connector/archive/refs/heads/main.zip)
 
 2. Copier le plugin dans le dossier des plugins de Nicotine+ : `%APPDATA%/nicotine/plugins/`
 
