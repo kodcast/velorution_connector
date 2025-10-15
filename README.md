@@ -20,7 +20,7 @@
 
 1. Cloner le dépôt
     ```bash
-    git clone https://github.com/kodcast/velorution_connectorr.git
+    git clone https://github.com/kodcast/velorution_connector.git
     ```
 
 2. Copier le plugin dans le dossier des plugins de Nicotine+ :
@@ -62,7 +62,7 @@ Distribué sous licence **GNU General Public License v3.0**.
 
 ### 📌 Description
 
-**PasseMonTruc Connector** is a plugin for Nicotine+ that allows you to automatically search and download audio files based on predefined criteria. It use [Passe Mon Truc](https://passemontruc.kodcast.com) service to simplify track retrieval.
+**velorution_connector** is a plugin for Nicotine+ that allows you to automatically search and download audio files based on predefined criteria. It use [velorutioweb](https://framagit.org/velorutionsaintnazaire/velorutioweb) service to simplify track retrieval.
 
 ### 🚀 Features
 
@@ -78,13 +78,13 @@ Distribué sous licence **GNU General Public License v3.0**.
 
 1. Clone the repository
     ```bash
-    git clone https://github.com/kodcast/djheros_connector.git
+    git clone https://github.com/kodcast/velorution_connector.git
     ```
 
 2. Copy the plugin to Nicotine+'s plugin directory:
     ```bash
     mkdir -p ~/.local/share/nicotine/plugins/
-    cp -r djheros_connector ~/.local/share/nicotine/plugins/
+    cp -r velorution_connector ~/.local/share/nicotine/plugins/
     ```
 
 3. Restart Nicotine+ and enable the plugin in the settings.
@@ -102,7 +102,7 @@ Distribué sous licence **GNU General Public License v3.0**.
 ### 🎯 Usage
 
 1. Launch Nicotine+ and enable the plugin
-2. Enter the URL ex : https://passemontruc.kodcast.com/playlists/your_playlist
+2. Enter the URL ex :  https://velorution_ta_ville.com
 3. Select the desired audio format and quality
 4. Click on **Search and Download**
 
