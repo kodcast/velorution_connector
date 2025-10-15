@@ -4,7 +4,7 @@
 
 ### 📌 Description
 
-**velorution_connector Connector** est un plugin pour Nicotine+ qui permet de rechercher et télécharger automatiquement des fichiers audio en fonction d'une liste de critères définis. Il utilise le service [velorutioweb]([https://framagit.org/velorutionsaintnazaire/velorutioweb](https://framagit.org/velorutionsaintnazaire/velorutioweb))  pour faciliter la récupération de morceaux.
+**velorution_connector** est un plugin pour Nicotine+ qui permet de rechercher et télécharger automatiquement des fichiers audio en fonction d'une liste de critères définis. Il utilise le service [velorutioweb]([https://framagit.org/velorutionsaintnazaire/velorutioweb](https://framagit.org/velorutionsaintnazaire/velorutioweb))  pour faciliter la récupération de morceaux.
 
 ### 🚀 Fonctionnalités
 
@@ -20,13 +20,13 @@
 
 1. Cloner le dépôt
     ```bash
-    git clone https://github.com/kodcast/djheros_connector.git
+    git clone https://github.com/kodcast/velorution_connectorr.git
     ```
 
 2. Copier le plugin dans le dossier des plugins de Nicotine+ :
     ```bash
     mkdir -p ~/.local/share/nicotine/plugins/
-    cp -r djheros_connector ~/.local/share/nicotine/plugins/
+    cp -r velorution_connector ~/.local/share/nicotine/plugins/
     ```
 
 3. Redémarrer Nicotine+ et activer le plugin dans les paramètres.
@@ -44,13 +44,13 @@
 ### 🎯 Utilisation
 
 1. Lancer Nicotine+ et activer le plugin
-2. Entrer l’URL ex : https://passemontruc.kodcast.com/playlists/votre_playlist
+2. Entrer l’URL ex : https://velorution_ta_ville.com
 3. Sélectionner le format audio et la qualité souhaitée
 4. Cliquer sur **Rechercher et Télécharger**
 
 ### 🤝 Contribution
 
-Les contributions sont les bienvenues ! Vous pouvez signaler un bug, proposer une amélioration ou envoyer une pull request sur **DjHeros Connector**.
+Les contributions sont les bienvenues ! Vous pouvez signaler un bug, proposer une amélioration ou envoyer une pull request sur **velorution_connector**.
 
 ### 📜 Licence
 
